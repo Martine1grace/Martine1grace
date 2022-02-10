@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Martine1grace
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning  java and php
+- 🌱 I’m currently learning  java, php ,django and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
