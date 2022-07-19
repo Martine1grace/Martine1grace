@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Martinegrace
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning  java, php ,django and React
+-I'm  enjoying HTML,CSS and JavaScript 
+- 🌱 I’m currently learning  java, php ,django,Node.js and React.js
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me :martinegrace16@gmail.com
 
